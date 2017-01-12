@@ -1,0 +1,145 @@
+
+En fiable :
+http://www.amazon.fr/Microsoft-KW9-00239-Windows-Famille-FPP/dp/B011EC2TOW/ref=sr_1_2?ie=UTF8&qid=1456153637&sr=8-2&keywords=windows+10
+https://www.amazon.fr/Microsoft-FQC-09104-Windows-Professionnel-FPP/dp/B011EBY85G/ref=sr_1_1?ie=UTF8&qid=1463555977&sr=8-1&keywords=windows+10+pro+fpp
+ou
+http://www.microsoftstore.com/store/msfr/fr_FR/pdp/Windows-10-Famille/productID.320445700
+http://www.microsoftstore.com/store/msfr/fr_FR/pdp/Windows-10-Pro/productID.320443800
+
+http://www.microsoftstore.com/store/msfr/fr_FR/pdp/Windows-10-Famille/productID.320445700
+ou
+http://www.amazon.fr/Microsoft-KW9-00239-Windows-Famille-FPP/dp/B011EC2TOW/ref=sr_1_2?ie=UTF8&qid=1456153637&sr=8-2&keywords=windows+10
+ou
+http://www.boulanger.com/ref/1054936
+
+PS. Le prix c'est une 100aine d'euros. Pas moins.
+Tu n'est pas éligible pour les licences OEM, et les autres à prix cassé sont (au mieux) louches.
+
+
+https://www.microsoft.com/france/acheter/revendeurs.aspx
+
+=================================================================================================================================
+https://www.microsoft.com/OEM/en/licensing/sblicensing/pages/licensing_faq.aspx#faq4
+https://www.microsoft.com/oem/en/licensing/sblicensing/Pages/index.aspx
+
+http://fcartegnie.free.fr/articles/Les_pieges_de_l_OEM.html
+
+
+[quote] 
+Q. If I need to reinstall the operating system on a machine from a direct OEM, such as Dell, that my customer has brought in. How should I do this?
+
+A. A customer who wants you to reinstall Windows [b]must provide recovery media from the direct OEM[/b], because the software is licensed to the customer for use on that PC by that OEM. [u][b]You cannot use your own OEM system builder media to reinstall the operating system, or any other version of media [/b][/u](such as TechNet, MSDN, or Action Pack), because these versions differ from the original OEM Windows license your customer acquired from the direct OEM. A customer who doesn't have a backup copy of the software for reinstallation will need to contact the original OEM and request replacement recovery media; you can use that media to reinstall the operating system on that machine.
+[/quote]
+Source : https://www.microsoft.com/OEM/en/licensing/sblicensing/pages/licensing_faq.aspx#faq4
+
+
+
+=================================================================================================================================
+clés windows 7 :
+http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_193.htm#t3229971
+
+[quotemsg=3229971,7694,54374]On va faire simple :
+- Windows 7 n'est plus commercialisé par Microsoft 
+- Windows 7 n'a jamais été vendu au travers de clés envoyées par mail
+- faut arrêter avec vos liens de sites qui vendent des licences d'origine douteuse
+
+Concernant l'OEM : voir la mise à jour que j'avais faite pour Win8.1. C'est en première page. 
+
+[/quotemsg]
+=================================================================================================================================
+OEM
+http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_193.htm#t3230187
+
+[quotemsg=3230187,7698,329229]Pour les conditions de vente des licences OEM, le site de Microsoft à destination de ses partenaires OEM (qui ont donc un contrat OEM avec Microsoft) dit la chose suivante :
+
+[quote] 
+[b]Q.[/b] Can I purchase OEM system builder software for personal use?
+
+[b]A.[/b] For Windows 8.1, if you are building a PC for your personal use or installing an additional operating system in a virtual machine, [u]you must purchase a full packaged retail product, not OEM system builder software[/u].[/quote]
+Source :
+https://www.microsoft.com/OEM/en/licensing/sblicensing/pages/licensing_faq.aspx
+
+Comme dit Wolfman, la seule exception était la licence PUL de Windows 8.0
+Il y a un beau tableau récapitulatif ici :
+https://www.microsoft.com/oem/en/licensing/sblicensing/Pages/windows-licensing-for-personal-use.aspx[/quotemsg]
+
+https://www.microsoft.com/oem/en/community/mpn/Pages/enroll.aspx
+
+
+=================================================================================================================================
+Loi CLUF :
+http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_193.htm#t3230336
+
+[quotemsg=3230336,7700,329229]
+Le problème vient essentiellement des pays dont la législation local modifie ces conditions (et des boutiques peu regardantes sur la provenance de leurs acheteurs).
+L'allemagne par exemple permet à tout le monde d'acheter une licence OEM (avec ses limitations).
+
+Concernant la France, il n'y a pas ces spécificités.
+Le CLUF respecte les règles du code civil sur les obligations contractuelles.
+Code civil Articles 1100 à 1303-4 :
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B5B4A79F8B2718A49E7E05700DD457F1.tpdila18v_3?idSectionTA=LEGISCTA000032040794&cidTexte=LEGITEXT000006070721&dateTexte=20161001
+
+Les boutiques ont le droit de vendre ces licences, mais l'acheteur doit être "qualifié" pour l'utiliser.
+En exagérant (et en simplifiant à mort), on peut acheter une licence OEM à titre personnel, et la faire installer par Dell sur le PC qu'ils nous fabrique.
+Par contre on ne peut pas l'installer nous même.[/quotemsg]
+
+=================================================================================================================================
+Détail licences :
+http://lecrabeinfo.net/tout-savoir-sur-les-licences-windows-retail-oem-vl-cle-produit.html
+
+CLUF windows 10 :
+https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_French.htm
+CLUF windows 10 OEM :
+https://www.microsoft.com/en-us/Useterms/OEM/Windows/10/UseTerms_OEM_Windows_10_French.htm
+
+CLUF Update Windows 8.1 :
+http://download.microsoft.com/Documents/UseTerms/Windows_8.1%20update%20(to%20Windows%208%20which%20was%20acquired%20from%20retail%20or%20Microsoft)_French_0f9b88a5-f98b-422e-9989-8f8eccb3232f.pdf
+http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/delai-activer-windows-sujet_344987_1.htm#t3237819
+
+DreamSpark:
+https://www.dreamspark.com/Student/Direct-EULA.aspx
+http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/licences-versions-gratuite-sujet_340725_81.htm#t3237269
+
+Insider:
+https://insider.windows.com/Home/TermsOfUse
+
+=================================================================================================================================
+UAC :
+https://technet.microsoft.com/en-us/magazine/2007.06.uac.aspx
+
+=================================================================================================================================
+Support
+
+[quotemsg=3240141,31381,329229]
+Support étendu uniquement (fix de sécurité).
+[:moundir] 
+https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+https://support.microsoft.com/en-us/lifecycle#gp/lifePolicy[/quotemsg]
+
+=================================================================================================================================
+amendement Cracotte
+http://forum.hardware.fr/hfr/Discussions/Viepratique/topic-unique-running-sujet_77196_1.htm
+Amendement Cracotte78 : je cite lorelei  : "Alors ça vient d'un dénommé Cracotte78 qu'était un boulet de compet' mais dont les propos ne prêtaient pas à sanction. Du coup, on a inventé "l'amendement Cracotte" pour bannir pour boulettisme aggravé".
+
+
+
+https://www.microsoft.com/fr-fr/software-download/windows10
+https://www.microsoft.com/fr-fr/software-download/windows8
+https://www.microsoft.com/fr-fr/software-download/windows7
+
+handicapés :
+https://www.microsoft.com/enable/at/matvplist.aspx
+
+
+
+=================================================================================================================================
+Tuto FRST
+http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/tutoriel-farbar-recovery-sujet_343861_1.htm
+
+
+
+=================================================================================================================================
+Update gratuite Windows 10
+[quote]Is the Windows 10 free upgrade offer still available?
+The Windows 10 free upgrade through the Get Windows 10 (GWX) app ended on July 29, 2016.[/quote]
+Source : https://support.microsoft.com/en-us/help/12435/windows-10-upgrade-faq
