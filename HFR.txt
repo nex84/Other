@@ -108,13 +108,20 @@ UAC :
 https://technet.microsoft.com/en-us/magazine/2007.06.uac.aspx
 
 =================================================================================================================================
-Support
+Support et Lifecycle
 
 [quotemsg=3240141,31381,329229]
 Support étendu uniquement (fix de sécurité).
 [:moundir] 
 https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
 https://support.microsoft.com/en-us/lifecycle#gp/lifePolicy[/quotemsg]
+
+Avec un peu d'explication :
+https://blogs.technet.microsoft.com/windowsfr/2016/06/29/explication-des-branches-cbcbb-et-ltsb/
+et la partie 2 :
+https://blogs.technet.microsoft.com/windowsfr/2016/09/14/explication-des-branches-partie-2/
+
+
 
 =================================================================================================================================
 amendement Cracotte
@@ -143,3 +150,9 @@ Update gratuite Windows 10
 [quote]Is the Windows 10 free upgrade offer still available?
 The Windows 10 free upgrade through the Get Windows 10 (GWX) app ended on July 29, 2016.[/quote]
 Source : https://support.microsoft.com/en-us/help/12435/windows-10-upgrade-faq
+
+
+
+=================================================================================================================================
+
+
