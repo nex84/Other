@@ -98,6 +98,7 @@ http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/delai-activer-windows-su
 
 DreamSpark:
 https://www.dreamspark.com/Student/Direct-EULA.aspx
+https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
 http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/licences-versions-gratuite-sujet_340725_81.htm#t3237269
 
 Insider:
