@@ -83,6 +83,40 @@ Les boutiques ont le droit de vendre ces licences, mais l'acheteur doit être "q
 En exagérant (et en simplifiant à mort), on peut acheter une licence OEM à titre personnel, et la faire installer par Dell sur le PC qu'ils nous fabrique.
 Par contre on ne peut pas l'installer nous même.[/quotemsg]
 
+
+
+http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/windows-anniversary-update-sujet_338104_877.htm#t3263387
+
+[quotemsg=3263385,35061,83789]A propos de jouer sur les mots, vous ecrivez souvent illégal,  mais il n'y pas de loi sur l'installation de windows  o: , on parle juste de respecter le contrat.[/quotemsg]
+Effectivement c'est un contrat, régit par le droit contractuel.
+
+Code civil Articles 1100 à 1303-4 :
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B5B4A79F8B2718A49E7E05700DD457F1.tpdila18v_3?idSectionTA=LEGISCTA000032040794&cidTexte=LEGITEXT000006070721&dateTexte=20161001
+
+Ne plus respecter le CLUF revient a rendre le contrat caduque, et donc la licence.
+Du coup, continuer à utiliser cette licence est du vol : 
+
+[quote]Le vol est la soustraction frauduleuse de la chose d'autrui.[/quote]
+Code Pénal Article 311-1 :
+https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006418127&idSectionTA=LEGISCTA000006165324&cidTexte=LEGITEXT000006070719&dateTexte=20170209
+
+Jusqu'à preuve du contraire, le vol, c'est illégal.
+
+Et on peut aller plus loin si on utilise une version crackée avec le contournement d'une mesure de protection :
+https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006279236&cidTexte=LEGITEXT000006069414
+
+
+
+
+
+
+
+
+
+
+
+
+
 =================================================================================================================================
 Détail licences :
 http://lecrabeinfo.net/tout-savoir-sur-les-licences-windows-retail-oem-vl-cle-produit.html
@@ -157,4 +191,3 @@ Source : https://support.microsoft.com/en-us/help/12435/windows-10-upgrade-faq
 =================================================================================================================================
 Windows 10 activation après changement de Hardware:
 https://support.microsoft.com/fr-fr/help/20530/windows-10-reactivating-after-hardware-change
-
