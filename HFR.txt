@@ -134,6 +134,7 @@ DreamSpark:
 https://www.dreamspark.com/Student/Direct-EULA.aspx
 https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
 http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/licences-versions-gratuite-sujet_340725_81.htm#t3237269
+http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_198.htm#t3263438
 
 Insider:
 https://insider.windows.com/Home/TermsOfUse
