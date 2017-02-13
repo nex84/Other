@@ -106,17 +106,6 @@ Et on peut aller plus loin si on utilise une version crackée avec le contournem
 https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006279236&cidTexte=LEGITEXT000006069414
 
 
-
-
-
-
-
-
-
-
-
-
-
 =================================================================================================================================
 Détail licences :
 http://lecrabeinfo.net/tout-savoir-sur-les-licences-windows-retail-oem-vl-cle-produit.html
@@ -134,7 +123,6 @@ DreamSpark:
 https://www.dreamspark.com/Student/Direct-EULA.aspx
 https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
 http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/licences-versions-gratuite-sujet_340725_81.htm#t3237269
-http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_198.htm#t3263438
 
 Insider:
 https://insider.windows.com/Home/TermsOfUse
@@ -151,6 +139,10 @@ Support étendu uniquement (fix de sécurité).
 [:moundir] 
 https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
 https://support.microsoft.com/en-us/lifecycle#gp/lifePolicy[/quotemsg]
+
+standard vs etendu :
+https://support.microsoft.com/en-us/help/14085
+
 
 Avec un peu d'explication :
 https://blogs.technet.microsoft.com/windowsfr/2016/06/29/explication-des-branches-cbcbb-et-ltsb/
