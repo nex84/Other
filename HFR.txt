@@ -57,13 +57,15 @@ http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-window
 
 [b]A.[/b] For Windows 8.1, if you are building a PC for your personal use or installing an additional operating system in a virtual machine, [u]you must purchase a full packaged retail product, not OEM system builder software[/u].[/quote]
 Source :
-https://www.microsoft.com/OEM/en/licensing/sblicensing/pages/licensing_faq.aspx
+OBSOLETE : https://www.microsoft.com/OEM/en/licensing/sblicensing/pages/licensing_faq.aspx
+https://dpcenter.microsoft.com/en/Licensing/OEM-Activation/cp-Licensing-FAQ#licensing-personal
 
 Comme dit Wolfman, la seule exception était la licence PUL de Windows 8.0
 Il y a un beau tableau récapitulatif ici :
 https://www.microsoft.com/oem/en/licensing/sblicensing/Pages/windows-licensing-for-personal-use.aspx[/quotemsg]
 
-https://www.microsoft.com/oem/en/community/mpn/Pages/enroll.aspx
+OBSOLETE : https://www.microsoft.com/oem/en/community/mpn/Pages/enroll.aspx
+https://dpcenter.microsoft.com/en/Partner-Community/News/cp-device-partner-edge
 
 
 =================================================================================================================================
