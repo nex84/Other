@@ -121,6 +121,9 @@ CLUF Update Windows 8.1 :
 http://download.microsoft.com/Documents/UseTerms/Windows_8.1%20update%20(to%20Windows%208%20which%20was%20acquired%20from%20retail%20or%20Microsoft)_French_0f9b88a5-f98b-422e-9989-8f8eccb3232f.pdf
 http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/delai-activer-windows-sujet_344987_1.htm#t3237819
 
+CLUF windows 7 : 
+http://download.microsoft.com/Documents/UseTerms/Windows_7%20Professional_French_8addde20-8615-42d6-be4a-c247d13db710.pdf
+
 DreamSpark:
 https://www.dreamspark.com/Student/Direct-EULA.aspx
 https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
