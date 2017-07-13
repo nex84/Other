@@ -154,7 +154,7 @@ https://blogs.technet.microsoft.com/windowsfr/2016/06/29/explication-des-branche
 et la partie 2 :
 https://blogs.technet.microsoft.com/windowsfr/2016/09/14/explication-des-branches-partie-2/
 
-
+https://technet.microsoft.com/fr-fr/windows/release-info.aspx
 
 =================================================================================================================================
 amendement Cracotte
