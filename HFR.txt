@@ -81,6 +81,9 @@ Le CLUF respecte les règles du code civil sur les obligations contractuelles.
 Code civil Articles 1100 à 1303-4 :
 https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B5B4A79F8B2718A49E7E05700DD457F1.tpdila18v_3?idSectionTA=LEGISCTA000032040794&cidTexte=LEGITEXT000006070721&dateTexte=20161001
 
+Nullité d'un contrat
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=C687ACA6AE8A76683A0A420632A5A21B.tpdila18v_3?idSectionTA=LEGISCTA000032008951&cidTexte=LEGITEXT000006070721&dateTexte=20161001
+
 Les boutiques ont le droit de vendre ces licences, mais l'acheteur doit être "qualifié" pour l'utiliser.
 En exagérant (et en simplifiant à mort), on peut acheter une licence OEM à titre personnel, et la faire installer par Dell sur le PC qu'ils nous fabrique.
 Par contre on ne peut pas l'installer nous même.[/quotemsg]
