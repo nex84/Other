@@ -67,6 +67,7 @@ https://www.microsoft.com/oem/en/licensing/sblicensing/Pages/windows-licensing-f
 OBSOLETE : https://www.microsoft.com/oem/en/community/mpn/Pages/enroll.aspx
 https://dpcenter.microsoft.com/en/Partner-Community/News/cp-device-partner-edge
 
+https://dpcenter.microsoft.com/fr-FR/Windows/License/cp-OEM-system-builder-licensing
 
 =================================================================================================================================
 Loi CLUF :
@@ -83,6 +84,7 @@ https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B5B4A79F8B2718A49E7E0570
 
 Nullité d'un contrat
 https://www.legifrance.gouv.fr/affichCode.do;jsessionid=C687ACA6AE8A76683A0A420632A5A21B.tpdila18v_3?idSectionTA=LEGISCTA000032008951&cidTexte=LEGITEXT000006070721&dateTexte=20161001
+
 
 Les boutiques ont le droit de vendre ces licences, mais l'acheteur doit être "qualifié" pour l'utiliser.
 En exagérant (et en simplifiant à mort), on peut acheter une licence OEM à titre personnel, et la faire installer par Dell sur le PC qu'ils nous fabrique.
@@ -196,6 +198,7 @@ https://support.microsoft.com/fr-fr/help/20530/windows-10-reactivating-after-har
 =================================================================================================================================
 Telemetry
 https://technet.microsoft.com/itpro/windows/configure/windows-diagnostic-data
+
 
 =================================================================================================================================
 Surveillance et espionnage employés
