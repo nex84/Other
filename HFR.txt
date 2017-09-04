@@ -68,6 +68,7 @@ OBSOLETE : https://www.microsoft.com/oem/en/community/mpn/Pages/enroll.aspx
 https://dpcenter.microsoft.com/en/Partner-Community/News/cp-device-partner-edge
 
 https://dpcenter.microsoft.com/fr-FR/Windows/License/cp-OEM-system-builder-licensing
+https://dpcenter.microsoft.com/en/Windows/License/cp-windows-licensing-and-packaging
 
 =================================================================================================================================
 Loi CLUF :
