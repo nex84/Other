@@ -183,6 +183,11 @@ https://www.microsoft.com/enable/at/matvplist.aspx
 Tuto FRST
 http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/tutoriel-farbar-recovery-sujet_343861_1.htm
 
+=================================================================================================================================
+ZHPDiag
+
+Pour être sur, il faudrait savoir ce qui tourne sur ton PC.
+Pourrais-tu faire un scan ZHPDiag ( https://www.nicolascoolman.com/fr/download/zhpdiag/ ) et poster le rapport complet avec www.cjoint.com ?
 
 
 =================================================================================================================================
