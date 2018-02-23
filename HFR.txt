@@ -136,6 +136,14 @@ https://www.dreamspark.com/Student/Direct-EULA.aspx
 https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
 http://forum.hardware.fr/hfr/WindowsSoftware/windows-10/licences-versions-gratuite-sujet_340725_81.htm#t3237269
 
+[quote]iv. Windows operating systems.  If your Subscription includes certain Windows operating system products, you may install these products only on computers within a STEM department that is a valid licensee under a Microsoft Imagine Premium Subscription even if these computers do not already have a Windows operating system installed on it, ONLY if (i) the computers are owned by or leased to you, (ii) the computers will at all times remain physically located in the STEM department that is the licensee under this Agreement, (iii) the products are used to support STEM learning, teaching and research relating to Microsoft technologies, and (iv) are not used for general purpose activities as web browsing or email access or non-STEM activities. [b]If the use of the Windows operating system products included with the Subscription will be used in any other way, a valid Certificate of Authenticity (COA) for a Windows operating system must first be affixed to the computer(s) on which the products are installed.[/b][/quote]
+https://imagine.microsoft.com/en-us/Institutions/Guidelines 
+
+D'un autre coté si un étudiant finit son cursus, seul l'accès au site permettant de récupérer des licences est cloturé. Mais les licences restent utilisables :
+[quote]2. Abonnement 
+L’Abonnement fournit l’accès à la communauté Microsoft Imagine et à certains Avantages Abonnement associés disponibles sur le portail Microsoft Imagine (www.imagine.microsoft.com). Certains Avantages Abonnement peuvent exiger que vous vérifiiez votre éligibilité sur une base annuelle pour vous permettre d’y accéder. [b]Lorsque votre Abonnement s’achève, vous n’aurez plus accès à certains Avantages Abonnement ni aux nouvelles clés d’activation ou de produit; [u]cependant, vous pourrez continuer à utiliser le logiciel obtenu pendant la durée de votre Abonnement[/u], conformément aux stipulations du présent Contrat.[/b][/quote]
+https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
+
 Insider:
 https://insider.windows.com/Home/TermsOfUse
 
