@@ -71,6 +71,11 @@ https://dpcenter.microsoft.com/en/Partner-Community/News/cp-device-partner-edge
 https://dpcenter.microsoft.com/fr-FR/Windows/License/cp-OEM-system-builder-licensing
 https://dpcenter.microsoft.com/en/Windows/License/cp-windows-licensing-and-packaging
 
+
+[quote]If you are building a system for your personal use or installing an additional operating system (OS) in a virtual machine, you will have to purchase a full version of Windows 10, available in FPP. Windows 10, Windows 8.1, and Windows 7 system builder software [u]does not permit personal use and is intended only for preinstallation on customer systems that will be sold to end users[/u].[/quote]
+Source : https://devicepartner.microsoft.com/en-us/communications/comm-windows-system-builder-licensing-for-personal-use
+Seule la licence Windows 8.0 permettait à un utilisateur final d'installer une licence OEM (qui devenait une licence PUL Personal Use Licence). Cette possibilité a disparu avec Windows 8.1.
+
 =================================================================================================================================
 Loi CLUF :
 http://forum.hardware.fr/hfr/WindowsSoftware/Tutoriels/licences-microsoft-windows-sujet_262410_193.htm#t3230336
