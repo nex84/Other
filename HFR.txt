@@ -71,7 +71,6 @@ https://dpcenter.microsoft.com/en/Partner-Community/News/cp-device-partner-edge
 https://dpcenter.microsoft.com/fr-FR/Windows/License/cp-OEM-system-builder-licensing
 https://dpcenter.microsoft.com/en/Windows/License/cp-windows-licensing-and-packaging
 
-
 [quote]If you are building a system for your personal use or installing an additional operating system (OS) in a virtual machine, you will have to purchase a full version of Windows 10, available in FPP. Windows 10, Windows 8.1, and Windows 7 system builder software [u]does not permit personal use and is intended only for preinstallation on customer systems that will be sold to end users[/u].[/quote]
 Source : https://devicepartner.microsoft.com/en-us/communications/comm-windows-system-builder-licensing-for-personal-use
 Seule la licence Windows 8.0 permettait à un utilisateur final d'installer une licence OEM (qui devenait une licence PUL Personal Use Licence). Cette possibilité a disparu avec Windows 8.1.
@@ -151,6 +150,33 @@ https://imagine.microsoft.com/fr-fr/about/LicenseAgreement
 
 Insider:
 https://insider.windows.com/Home/TermsOfUse
+
+
+Non, il n'existe qu'une seule notion de "transfert" : le transfert d'activation d'un appareil à un autre, peu importe à qui ces appareils appartiennent (à soi même ou à quelqu'un d'autre lors d'un cession de la licence).
+Dans le cas des licences OEM, elles ne sont cessibles qu'avec le matériel auquel elles sont rattachées/activées. Elles ne sont pas transférables.
+[quote]4. Transfert. 
+Les dispositions du présent Article ne s’appliquent pas si vous avez acquis le logiciel en qualité de particulier en Allemagne ou dans l’un des pays énumérés sur ce site (aka.ms/transfer), auquel cas tout transfert du logiciel à un tiers et tout droit d’utilisation doivent se conformer à la réglementation applicable.
+
+a. Logiciel préinstallé sur un dispositif. Si vous avez acquis le logiciel préinstallé sur un dispositif (et également si vous avez mis à niveau un logiciel préinstallé sur un dispositif), [b]vous êtes autorisé à en transférer la licence directement à un autre utilisateur, mais uniquement avec le dispositif sous licence[/b]. Le transfert doit comprendre le logiciel, ainsi que l’étiquette d’authenticité Windows mentionnant la clé de produit, si elle est fournie avec le dispositif. Avant tout transfert autorisé, l’autre partie doit reconnaître que ce contrat s’applique au transfert et à l’utilisation du logiciel.[/quote]
+Source : https://www.microsoft.com/en-us/Useterms/OEM/Windows/10/Useterms_OEM_Windows_10_French.htm
+
+Et plus précis (seules les 2 derniers points concernent les particuliers et le 3e point concerne les licences MSDNAA/DreamSpark/Imagine) : 
+[quote]The Principles of Transferring Licences
+
+•	You can transfer perpetual licences, abiding Microsoft’s transfer guidelines for the appropriate agreements.
+
+•	Split payment Volume Licence Agreements eg Mutli Year Open (MYO), Open Subscription Licence (OSL), Open Value (OV), Enterprise Agreement (EA) – you cannot transfer until final payment
+
+•	Licences acquired through Subscription agreements cannot be transferred as customer does not own the licences. Transfer can only take place if the customer has chosen to buy out the licences 
+
+•	OEM licences cannot be transferred, unless the PC and the licences are transferred together. 
+
+•	FPP licences can be transferred to another PC or organisation providing they are removed from the original PC and are transferred with the End User Licence Agreement (EULA) Certificate of Authenticity (COA), media and all documentation
+[/quote]
+Source : http://download.microsoft.com/documents/uk/licensing/faq/downloads/the-principles-of-transferring-licences.doc
+
+
+
 
 =================================================================================================================================
 UAC :
